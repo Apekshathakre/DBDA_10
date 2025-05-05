@@ -1,0 +1,5 @@
+cloud means virtual storage or environment
+has 3 types
+  IAAS
+PAAS
+SAAS
